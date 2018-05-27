@@ -1,4 +1,4 @@
-var Classes = Object.create(null);
+var Classes = Object.create(undefined);
 
 /**
  * Create a new Connection instance.
